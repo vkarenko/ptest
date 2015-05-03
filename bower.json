@@ -1,0 +1,23 @@
+{
+  "name": "plarium",
+  "version": "0.0.0",
+  "homepage": "https://github.com/vkarenko/ptest",
+  "authors": [
+    "vkarenko <vitalii.karenko@me.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "2.*"
+  }
+}

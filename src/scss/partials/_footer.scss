@@ -1,9 +1,14 @@
 /* Footer
 -----------------------------------------------------------------------------*/
 .footer {
-	margin: -100px auto 0;
+	margin: -32px auto 0;
 	min-width: 1000px;
-	height: 100px;
-	background: #BFF08E;
+	height: 32px;
 	position: relative;
+}
+.footer-cr {
+	line-height: 32px;
+	text-align: center;
+	color: #5e5d5d;
+	text-shadow: hoff voff blur #feffff;
 }
